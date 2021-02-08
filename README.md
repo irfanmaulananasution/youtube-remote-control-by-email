@@ -1,4 +1,5 @@
 # Youtube Remote by Email
-mini-project program
-bahasa : indonesia
-open information.pdf for more information
+this program is used to run youtube. the command is received via email registered in the program
+
+## Author :
+Irfan Maulana Nasution
